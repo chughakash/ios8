@@ -1,0 +1,23 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "a6f30030ae92d8fbbd6b1a4212797956"
+build_time: [546156916, 324882000]
+inputs:
+  "/Users/ASUuser/Desktop/SQLite-2.swift-master/Sources/SQLite/Typed/CoreFunctions.swift": [544184868, 0]
+  "/Users/ASUuser/Desktop/SQLite-2.swift-master/Sources/SQLite/Extensions/RTree.swift": [544184868, 0]
+  "/Users/ASUuser/Desktop/SQLite-2.swift-master/Sources/SQLite/Core/Blob.swift": [544184868, 0]
+  "/Users/ASUuser/Desktop/SQLite-2.swift-master/Sources/SQLite/Foundation.swift": [544184868, 0]
+  "/Users/ASUuser/Desktop/SQLite-2.swift-master/Sources/SQLite/Core/Connection.swift": [544184868, 0]
+  "/Users/ASUuser/Desktop/SQLite-2.swift-master/Sources/SQLite/Typed/Expression.swift": [544184868, 0]
+  "/Users/ASUuser/Desktop/SQLite-2.swift-master/Sources/SQLite/Helpers.swift": [544184868, 0]
+  "/Users/ASUuser/Desktop/SQLite-2.swift-master/Sources/SQLite/Typed/Collation.swift": [544184868, 0]
+  "/Users/ASUuser/Desktop/SQLite-2.swift-master/Sources/SQLite/Typed/Setter.swift": [544184868, 0]
+  "/Users/ASUuser/Desktop/SQLite-2.swift-master/Sources/SQLite/Typed/CustomFunctions.swift": [544184868, 0]
+  "/Users/ASUuser/Desktop/SQLite-2.swift-master/Sources/SQLite/Extensions/FTS4.swift": [544184868, 0]
+  "/Users/ASUuser/Desktop/SQLite-2.swift-master/Sources/SQLite/Core/Value.swift": [544184868, 0]
+  "/Users/ASUuser/Desktop/SQLite-2.swift-master/Sources/SQLite/Typed/Operators.swift": [544184868, 0]
+  "/Users/ASUuser/Desktop/SQLite-2.swift-master/Sources/SQLite/Typed/Schema.swift": [544184868, 0]
+  "/Users/ASUuser/Desktop/SQLite-2.swift-master/Sources/SQLite/Typed/Query.swift": [544184868, 0]
+  "/Users/ASUuser/Desktop/SQLite-2.swift-master/Sources/SQLite/Core/Statement.swift": [544184868, 0]
+  "/Users/ASUuser/Desktop/SQLite-2.swift-master/Sources/SQLite/Typed/AggregateFunctions.swift": [544184868, 0]
+  "/Users/ASUuser/Desktop/SQLite-2.swift-master/Sources/SQLite/Extensions/FTS5.swift": [544184868, 0]
+  "/Users/ASUuser/Desktop/SQLite-2.swift-master/Sources/SQLite/Extensions/Cipher.swift": [544184868, 0]

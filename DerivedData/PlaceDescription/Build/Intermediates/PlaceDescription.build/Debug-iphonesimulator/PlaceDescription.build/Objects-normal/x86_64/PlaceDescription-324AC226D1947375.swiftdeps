@@ -1,0 +1,232 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "PlaceDescription"
+provides-nominal:
+- "C16PlaceDescription16PlaceDescription"
+provides-member:
+- ["C16PlaceDescription16PlaceDescription", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "AnyObject"
+- "String"
+- "Double"
+- "CastingPrecedence"
+- "AssignmentPrecedence"
+- "NSMutableDictionary"
+- !private "StringLiteralType"
+- "PlaceDescription"
+depends-member:
+- !private ["Ps9AnyObject", "NSMutableDictionary"]
+- !private ["Ps9AnyObject", "address_street"]
+- !private ["Ps9AnyObject", "address_title"]
+- !private ["Ps9AnyObject", "category"]
+- !private ["Ps9AnyObject", "desc"]
+- !private ["Ps9AnyObject", "elevation"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "latitude"]
+- !private ["Ps9AnyObject", "longitude"]
+- !private ["Ps9AnyObject", "name"]
+- !private ["Ps9AnyObject", "setValue"]
+- ["Ps9AnyObject", ""]
+- !private ["P6SQLite7Binding", "init"]
+- !private ["Ps7CVarArg", "Index"]
+- !private ["Ps7CVarArg", "SubSequence"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "setValue"]
+- !private ["Ps7CVarArg", "subscript"]
+- !private ["Ps10Collection", "Index"]
+- !private ["Ps10Collection", "Iterator"]
+- !private ["Ps10Collection", "SubSequence"]
+- !private ["Ps10Collection", "_Element"]
+- !private ["Ps10Collection", "subscript"]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "Index"]
+- !private ["Ps28CustomDebugStringConvertible", "SubSequence"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "setValue"]
+- !private ["Ps28CustomDebugStringConvertible", "subscript"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "Index"]
+- !private ["Ps17CustomReflectable", "SubSequence"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps17CustomReflectable", "setValue"]
+- !private ["Ps17CustomReflectable", "subscript"]
+- !private ["Ps23CustomStringConvertible", "Index"]
+- !private ["Ps23CustomStringConvertible", "SubSequence"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "setValue"]
+- !private ["Ps23CustomStringConvertible", "subscript"]
+- !private ["Vs10Dictionary", "Index"]
+- !private ["Vs10Dictionary", "SubSequence"]
+- ["Vs10Dictionary", "deinit"]
+- !private ["Vs10Dictionary", "subscript"]
+- ["Sd", "deinit"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "setValue"]
+- !private ["P6SQLite11Expressible", "init"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "Index"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "SubSequence"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "init"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "setValue"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "subscript"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps32ExpressibleByStringInterpolation", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "setValue"]
+- !private ["Ps9Indexable", "Index"]
+- !private ["Ps9Indexable", "Iterator"]
+- !private ["Ps9Indexable", "SubSequence"]
+- !private ["Ps9Indexable", "_Element"]
+- !private ["Ps9Indexable", "subscript"]
+- !private ["Ps13IndexableBase", "Index"]
+- !private ["Ps13IndexableBase", "Iterator"]
+- !private ["Ps13IndexableBase", "SubSequence"]
+- !private ["Ps13IndexableBase", "_Element"]
+- !private ["Ps13IndexableBase", "subscript"]
+- !private ["Vs16IndexingIterator", "Element"]
+- !private ["Ps16IteratorProtocol", "Element"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps10MirrorPath", "init"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "setValue"]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo9NSCopying", "setValue"]
+- !private ["CSo12NSDictionary", "init"]
+- !private ["CSo12NSDictionary", "setValue"]
+- !private ["PSo17NSFastEnumeration", "init"]
+- !private ["PSo17NSFastEnumeration", "setValue"]
+- !private ["PSo20NSFetchRequestResult", "init"]
+- !private ["PSo20NSFetchRequestResult", "setValue"]
+- !private ["PSo16NSMutableCopying", "init"]
+- !private ["PSo16NSMutableCopying", "setValue"]
+- ["CSo19NSMutableDictionary", "deinit"]
+- !private ["CSo19NSMutableDictionary", "init"]
+- !private ["CSo19NSMutableDictionary", "setValue"]
+- !private ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "setValue"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "setValue"]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["PSo14NSSecureCoding", "setValue"]
+- !private ["CSo8NSString", "init"]
+- ["Sq", "deinit"]
+- ["C16PlaceDescription16PlaceDescription", "AnyObject"]
+- ["C16PlaceDescription16PlaceDescription", "Double"]
+- ["C16PlaceDescription16PlaceDescription", "NSMutableDictionary"]
+- ["C16PlaceDescription16PlaceDescription", "PlaceDescription"]
+- ["C16PlaceDescription16PlaceDescription", "String"]
+- ["C16PlaceDescription16PlaceDescription", "address_street"]
+- ["C16PlaceDescription16PlaceDescription", "address_title"]
+- ["C16PlaceDescription16PlaceDescription", "category"]
+- ["C16PlaceDescription16PlaceDescription", "convertToJson"]
+- ["C16PlaceDescription16PlaceDescription", "deinit"]
+- ["C16PlaceDescription16PlaceDescription", "desc"]
+- ["C16PlaceDescription16PlaceDescription", "elevation"]
+- ["C16PlaceDescription16PlaceDescription", "init"]
+- ["C16PlaceDescription16PlaceDescription", "latitude"]
+- ["C16PlaceDescription16PlaceDescription", "longitude"]
+- ["C16PlaceDescription16PlaceDescription", "name"]
+- !private ["Ps8Sequence", "Element"]
+- !private ["Ps8Sequence", "Index"]
+- !private ["Ps8Sequence", "Iterator"]
+- !private ["Ps8Sequence", "SubSequence"]
+- !private ["Ps8Sequence", "_Element"]
+- !private ["Ps8Sequence", "init"]
+- !private ["Ps8Sequence", "setValue"]
+- !private ["Ps8Sequence", "subscript"]
+- !private ["Vs5Slice", "Index"]
+- !private ["Vs5Slice", "Iterator"]
+- !private ["Vs5Slice", "SubSequence"]
+- !private ["Vs5Slice", "_Element"]
+- ["SS", "deinit"]
+- !private ["SS", "init"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- !private ["P6SQLite5Value", "init"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "setValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "Index"]
+- !private ["Ps21_ObjectiveCBridgeable", "SubSequence"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Ps21_ObjectiveCBridgeable", "subscript"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "P6SQLite7Binding"
+- !private "Ps7CVarArg"
+- !private "Ps10Collection"
+- !private "Ps10Comparable"
+- !private "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- "Vs10Dictionary"
+- "Sd"
+- !private "Ps9Equatable"
+- !private "P6SQLite11Expressible"
+- !private "Ps30ExpressibleByDictionaryLiteral"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps32ExpressibleByStringInterpolation"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- !private "Ps8Hashable"
+- !private "Ps9Indexable"
+- !private "Ps13IndexableBase"
+- !private "Vs16IndexingIterator"
+- !private "Ps16IteratorProtocol"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- !private "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- !private "CSo12NSDictionary"
+- !private "PSo17NSFastEnumeration"
+- !private "PSo20NSFetchRequestResult"
+- !private "PSo16NSMutableCopying"
+- "CSo19NSMutableDictionary"
+- !private "CSo8NSObject"
+- !private "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- "Sq"
+- "C16PlaceDescription16PlaceDescription"
+- !private "Ps8Sequence"
+- !private "Vs5Slice"
+- "SS"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- !private "P6SQLite5Value"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- !private "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreData.swiftmodule"
+- "/Users/ASUuser/Desktop/Assign8achugh5/iOS PlaceDescription/DerivedData/PlaceDescription/Build/Products/Debug-iphonesimulator/SQLite.framework/Modules/SQLite.swiftmodule/x86_64.swiftmodule"
+- "/Users/ASUuser/Desktop/Assign8achugh5/iOS PlaceDescription/DerivedData/PlaceDescription/Build/Products/Debug-iphonesimulator/SQLite.framework/Headers/SQLite-Swift.h"
+- "/Users/ASUuser/Desktop/Assign8achugh5/iOS PlaceDescription/DerivedData/PlaceDescription/Build/Products/Debug-iphonesimulator/SQLite.framework/Headers/sqlite3.h"
+- "/Users/ASUuser/Desktop/Assign8achugh5/iOS PlaceDescription/DerivedData/PlaceDescription/Build/Products/Debug-iphonesimulator/SQLite.framework/Headers/SQLite-Bridging.h"
+- "/Users/ASUuser/Desktop/SQLite-2.swift-master/CocoaPods/iphonesimulator/module.modulemap"
+- "/Users/ASUuser/Desktop/Assign8achugh5/iOS PlaceDescription/DerivedData/PlaceDescription/Build/Products/Debug-iphonesimulator/SQLite.framework/Headers/SQLite.h"
+- "/Users/ASUuser/Desktop/Assign8achugh5/iOS PlaceDescription/DerivedData/PlaceDescription/Build/Products/Debug-iphonesimulator/SQLite.framework/Modules/module.modulemap"
+interface-hash: "d9eb39dfe556ee0d08e98e80f4bf782b"
